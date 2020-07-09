@@ -22,11 +22,11 @@ Create a folder. Here its 'TypeScript'
 
 ### Step 2 :
 
-Create a file named 'main.ts'
+Create a ts file. Here it is "main.ts" 
 
 ### Step 3 :
 
-In main.ts, 
+In main.ts, type the program
 ```
 function log(message) {
 	console.log(message)
